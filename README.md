@@ -1,32 +1,36 @@
-# Hi there, I'm Gabriella! 👋
+# ⚡ Olá, eu sou a Gabriella! 👋
 
-**Software Engineer | Frontend Specialist | Systems Architecture**
+### 🏗️ Do Front-end ao Silício: Engenharia de Sistemas & Software
 
-[cite_start]I am a Software Engineer with over 4 years of experience [cite: 118] building scalable applications and complex systems. [cite_start]My background blends high-level **Frontend Architecture** with deep dives into **Low-Level Systems** and **AI Optimization**[cite: 120].
+[cite_start]Engenheira de Software com mais de 4 anos de experiência[cite: 7]. [cite_start]Atualmente focada em construir aplicações web escaláveis com **Angular** e explorar a eficiência de sistemas através da **Microeletrônica e IA**[cite: 8, 9].
 
-### 🛠️ Tech Stack & Tools
-
-* [cite_start]**Frontend:** Angular (Expert), TypeScript, JavaScript (ES6+), RxJS, SASS[cite: 123].
-* [cite_start]**Backend & Systems:** Node.js, Python (Data/IA), C (Low-level), REST APIs, SQL[cite: 124].
-* [cite_start]**Architecture:** Systems Design, Microservices, Clean Code, RISC-V[cite: 125].
-* [cite_start]**DevOps & Tools:** Git/GitHub, Docker, Figma, Cadence Tools (Xcelium/Genus)[cite: 126].
-
-### 🔬 Research & International Experience
-
-* [cite_start]**Systems & AI Optimization:** Recently conducted research at **Universidad Carlos III de Madrid (Spain)** and **UFRGS**, focusing on **Computer Vision** pipelines and **RISC-V** instruction sets[cite: 136, 137, 138].
-* [cite_start]**Legacy Modernization:** Proven track record in migrating complex legacy architectures to modern, high-performance stacks[cite: 161].
-
-### 🚀 What I'm working on right now
-
-* 🎓 Constantly evolving my expertise in **Next.js** and modern Web Frameworks.
-* 🤖 Experimenting with **AI-driven development** using tools like **Cursor** to optimize delivery and code quality.
-* 🏗️ Building the **RISC-V Logic Visualizer** (Angular 18 + Signals).
-
-### 📫 Let's connect!
-
-* [cite_start]💼 [LinkedIn](https://www.linkedin.com/in/gabriella-gomes-ar/) [cite: 116]
-* [cite_start]📧 [gabriella.alves.gr@gmail.com](mailto:gabriella.alves.gr@gmail.com) [cite: 115]
-* [cite_start]📍 Based in Uberaba, MG (Available for Remote & Relocation) [cite: 111]
+* [cite_start]🚀 **Fase Atual:** Especialização em Angular 18+, TypeScript e Clean Code[cite: 7, 12, 13].
+* [cite_start]🌍 **Experiência Internacional:** Pesquisa em arquitetura RISC-V e sistemas de baixo nível na Espanha (UC3M)[cite: 51, 52].
+* [cite_start]🧠 **Visão de Futuro:** Integrar pipelines de IA e Visão Computacional em interfaces de alta performance[cite: 47, 48].
+* [cite_start]💡 **Mindset:** "Otimizando soluções desde a interface do usuário até o processamento no hardware"[cite: 9].
 
 ---
-*"Engineering software from the user interface down to the silicon."*
+
+### 🛠️ Tech Stack
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodes.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+### 📊 Performance & Stats Totais
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabi-gms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-gms&layout=compact&theme=tokyonight&hide=html,css"/>
+</p>
+
+---
+
+### 📫 Vamos nos conectar!
+
+[cite_start][![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-gomes-ar/) [cite: 3]
+[cite_start][![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriella.alves.gr@gmail.com) [cite: 4]
