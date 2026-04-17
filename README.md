@@ -1,4 +1,4 @@
-# 🌒 Hello, Gabriella Here! 👋
+<p align="center"># 🌒 Hello, Gabriella Here! 👋</p>
 
 ## ⚡About Me
 
@@ -16,6 +16,7 @@ Engenheira de Software com mais de 4 anos de experiência. Atualmente focada em 
 * 💡 **Mindset:** "Otimizando soluções desde a interface do usuário até o processamento no hardware".
 
 <div align="right">
+  
 ### 💫 Follow Me On:
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-gomes-ar/)
@@ -26,7 +27,7 @@ Engenheira de Software com mais de 4 anos de experiência. Atualmente focada em 
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
+<div align="center">
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,7 +41,7 @@ Engenheira de Software com mais de 4 anos de experiência. Atualmente focada em 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   
-</p>
+</div>
 
 ---
 
@@ -55,13 +56,13 @@ Engenheira de Software com mais de 4 anos de experiência. Atualmente focada em 
 
 ### 💻 Languages and Tools
 
-<p align="center">
+<div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=angular,ts,js,nodejs,sass,c,py,next,react)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=mysql,postman)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=git,github,docker,figma,vscode)](https://skillicons.dev)
 
-</p>
+</div>
 
 ---
 
