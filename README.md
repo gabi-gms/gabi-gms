@@ -24,7 +24,7 @@
 
 <br clear="right">
 
-<div align="right">
+<div align="left">
   
 ### 💫 Follow Me On:
   
