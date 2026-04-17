@@ -45,7 +45,11 @@ Engenheira de Software com mais de 4 anos de experiência. Atualmente focada em 
 ---
 
 ### 🐍 Atividade no GitHub
-![github contribution grid snake animation](https://raw.githubusercontent.com/gabi-gms/gabi-gms/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabi-gms/gabi-gms/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabi-gms/gabi-gms/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabi-gms/gabi-gms/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 Obrigada pela visita! Fique a vontade para explorar meus repositórios 😊.
