@@ -10,14 +10,36 @@
   <img src="https://komarev.com/ghpvc/?username=gabi-gms&label=PROFILE%20VIEWS&color=007acc&style=flat-square" alt="gabi-gms" />
 </div>
 
-### 🏗️ Do Front-end ao Silício: Engenharia de Sistemas & Software
+### 🏗️ From Pixels to Particles: Engineering for a Critical Future.
 
-Engenheira de Software com mais de 4 anos de experiência. Atualmente focada em construir aplicações web escaláveis com **Angular** e explorar a eficiência de sistemas através da **Microeletrônica e IA**.
+# ⚡ About Me
 
-* 🚀 **Fase Atual:** Especialização em Angular 18+ e evolução em andamento para desenvolvedor full-stack.
-* 🌍 **Experiência Internacional:** Pesquisa em arquitetura RISC-V e sistemas de baixo nível na Espanha (UC3M).
-* 🧠 **Visão de Futuro:** Integrar pipelines de IA e Visão Computacional em interfaces de alta performance.
-* 💡 **Mindset:** "Otimizando soluções desde a interface do usuário até o processamento no hardware".
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p align="left">
+        I am a <b>Software Engineer</b> with 4+ years of experience building high-performance web applications. My career is defined by a passion for technical excellence and a deep curiosity about how software interacts with hardware.
+      </p>
+      <p align="left">
+        🚀 <b>Current Phase:</b> Specializing in <b>Angular 18+</b>, <b>TypeScript</b>, and <b>Clean Architecture</b> to deliver scalable, production-ready enterprise software.
+      </p>
+      <p align="left">
+        🔭 <b>Future Vision:</b> My long-term goal is to pivot into <b>Mission-Critical Systems</b>. I am working towards applying my engineering skills to <b>Energy Grids</b> and <b>Radiation-based Health-Tech</b> (Medical Physics/Nuclear Medicine).
+      </p>
+      <p align="left">
+        🧬 <b>The Bridge:</b> My background in <b>Microelectronics (UFRGS)</b> and <b>Systems Architecture (UC3M - Spain)</b> provides the low-level foundation (RISC-V/C) needed to eventually bridge the gap between complex hardware and high-level software.
+      </p>
+      <p align="left">
+        🤖 <b>Workflow:</b> Championing <b>AI-driven development</b> by integrating tools into my daily cycle to optimize code quality and architectural integrity.
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Tech Illustration" />
+    </td>
+  </tr>
+</table>
+
+---
 
 <div align="right">
   
