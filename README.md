@@ -10,34 +10,23 @@
   <img src="https://komarev.com/ghpvc/?username=gabi-gms&label=PROFILE%20VIEWS&color=007acc&style=flat-square" alt="gabi-gms" />
 </div>
 
-### 🏗️ From Pixels to Particles: Engineering for a Critical Future.
-
 # ⚡ About Me
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <p align="left">
-        I am a <b>Software Engineer</b> with 4+ years of experience building high-performance web applications. My career is defined by a passion for technical excellence and a deep curiosity about how software interacts with hardware.
-      </p>
-      <p align="left">
-        🚀 <b>Current Phase:</b> Specializing in <b>Angular 18+</b>, <b>TypeScript</b>, and <b>Clean Architecture</b> to deliver scalable, production-ready enterprise software.
-      </p>
-      <p align="left">
-        🔭 <b>Future Vision:</b> My long-term goal is to pivot into <b>Mission-Critical Systems</b>. I am working towards applying my engineering skills to <b>Energy Grids</b> and <b>Radiation-based Health-Tech</b> (Medical Physics/Nuclear Medicine).
-      </p>
-      <p align="left">
-        🧬 <b>The Bridge:</b> My background in <b>Microelectronics (UFRGS)</b> and <b>Systems Architecture (UC3M - Spain)</b> provides the low-level foundation (RISC-V/C) needed to eventually bridge the gap between complex hardware and high-level software.
-      </p>
-      <p align="left">
-        🤖 <b>Workflow:</b> Championing <b>AI-driven development</b> by integrating tools into my daily cycle to optimize code quality and architectural integrity.
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW94bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Tech Illustration" />
-    </td>
-  </tr>
-</table>
+### 🏗️ From Pixels to Particles: Engineering for a Critical Future.
+
+<img align="right" width="300" src="https://i.pinimg.com/1200x/9f/0a/ba/9f0ababbc2673d8c20bb06755ae03d43.jpg" alt="Tech Illustration" />
+
+🚀 **Current Phase:** Specializing in Angular, TypeScript, and Clean Architecture to deliver scalable, production-ready enterprise software.
+
+🔭 **Future Vision:** My long-term goal is to pivot into **Mission-Critical Systems**. I am working towards applying my engineering skills to **Energy Grids** and **Radiation-based Health-Tech**.
+
+🧬 **The Bridge:** My background Microelectronics and Systems Architecture provides the low-level foundation needed to eventually bridge the gap between complex hardware and high-level software.
+
+🤖 **Workflow:** Championing **AI-driven development** by integrating tools into my daily cycle to optimize code quality and architectural integrity.
+
+<br clear="right">
+
+---
 
 ---
 
