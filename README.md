@@ -1,4 +1,8 @@
-<p align="center"># 🌒 Hello, Gabriella Here! 👋</p>
+<p align="center">
+  
+  # 🌒 Hello, Gabriella Here! 👋
+
+</p>
 
 ## ⚡About Me
 
@@ -24,10 +28,9 @@ Engenheira de Software com mais de 4 anos de experiência. Atualmente focada em 
 
 </div>
 
----
-
-### 🛠️ Tech Stack
 <div align="center">
+
+## 🛠️ Tech Stack
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,20 +46,17 @@ Engenheira de Software com mais de 4 anos de experiência. Atualmente focada em 
   
 </div>
 
----
-
-### 📊 Github Stats
-
 <p align="center">
+
+## 📊 Github Stats
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabi-gms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-gms&layout=compact&theme=tokyonight&hide=html,css"/>
 </p>
 
----
-
-### 💻 Languages and Tools
-
 <div align="center">
+
+## 💻 Languages and Tools
   
   [![My Skills](https://skillicons.dev/icons?i=angular,ts,js,nodejs,sass,c,py,next,react)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=mysql,postman)](https://skillicons.dev)
