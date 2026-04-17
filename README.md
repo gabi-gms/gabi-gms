@@ -10,11 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=gabi-gms&label=PROFILE%20VIEWS&color=007acc&style=flat-square" alt="gabi-gms" />
 </div>
 
-# ⚡ About Me
+<img align="right" width="300" src="https://i.pinimg.com/1200x/9f/0a/ba/9f0ababbc2673d8c20bb06755ae03d43.jpg" alt="Tech Illustration" />
 
 ### 🏗️ From Pixels to Particles: Engineering for a Critical Future.
-
-<img align="right" width="300" src="https://i.pinimg.com/1200x/9f/0a/ba/9f0ababbc2673d8c20bb06755ae03d43.jpg" alt="Tech Illustration" />
 
 🚀 **Current Phase:** Specializing in Angular, TypeScript, and Clean Architecture to deliver scalable, production-ready enterprise software.
 
@@ -26,10 +24,6 @@
 
 <br clear="right">
 
----
-
----
-
 <div align="right">
   
 ### 💫 Follow Me On:
@@ -38,7 +32,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriella.alves.gr@gmail.com) 
 
 </div>
-
 
 
 <div align="center">
