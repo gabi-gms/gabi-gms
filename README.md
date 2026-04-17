@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
   
   # 🌒 Hello, Gabriella Here! 👋
 
-</p>
+</div>
 
 ## ⚡About Me
 
@@ -28,6 +28,8 @@ Engenheira de Software com mais de 4 anos de experiência. Atualmente focada em 
 
 </div>
 
+
+
 <div align="center">
 
 ## 🛠️ Tech Stack
@@ -46,13 +48,16 @@ Engenheira de Software com mais de 4 anos de experiência. Atualmente focada em 
   
 </div>
 
-<p align="center">
+
+
+<div align="center">
 
 ## 📊 Github Stats
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabi-gms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-gms&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
+  
+</div>
 
 <div align="center">
 
