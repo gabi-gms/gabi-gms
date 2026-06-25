@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=gabi-gms&label=PROFILE%20VIEWS&color=007acc&style=flat-square" alt="gabi-gms" />
 </div>
 
-<img align="right" width="400" src="https://i.imgur.com/9V56Oru.jpeg" alt="Tech Illustration" />
+<img align="right" width="350" src="https://i.imgur.com/9V56Oru.jpeg" alt="Tech Illustration" />
 
 ### 🧠 Turning Complexity into Systems
 
