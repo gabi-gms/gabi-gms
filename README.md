@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🌒 Hello, Gabriella Here! 👋
+  # 🌒 Hello, Gabi Here! 👋
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ### 🏗️ From Pixels to Particles: Engineering for a Critical Future.
 
-🚀 **Current Phase:** Specializing in Angular, TypeScript, and Clean Architecture to deliver scalable, production-ready enterprise software.
+🚀 **Current Phase:** Specializing in React, Node.js, Python, TypeScript, and Clean Architecture to deliver scalable, production-ready enterprise software.
 
 🔭 **Future Vision:** My long-term goal is to pivot into **Mission-Critical Systems**. I am working towards applying my engineering skills to **Energy Grids** and **Radiation-based Health-Tech**.
 
