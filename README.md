@@ -10,21 +10,34 @@
   <img src="https://komarev.com/ghpvc/?username=gabi-gms&label=PROFILE%20VIEWS&color=007acc&style=flat-square" alt="gabi-gms" />
 </div>
 
-<img align="right" width="300" src="https://i.pinimg.com/1200x/9f/0a/ba/9f0ababbc2673d8c20bb06755ae03d43.jpg" alt="Tech Illustration" />
+<img align="right" width="400" src="https://i.imgur.com/9V56Oru.jpeg" alt="Tech Illustration" />
 
-### 🏗️ From Pixels to Particles: Engineering for a Critical Future.
+### 🧠 Turning Complexity into Systems
 
-🚀 **Current Phase:** Specializing in React, Node.js, Python, TypeScript, and Clean Architecture to deliver scalable, production-ready enterprise software.
+**Developer, worldbuilder and lifelong student of complex systems.**
 
-🔭 **Future Vision:** My long-term goal is to pivot into **Mission-Critical Systems**. I am working towards applying my engineering skills to **Energy Grids** and **Radiation-based Health-Tech**.
+I explore the intersection between:
 
-🧬 **The Bridge:** My background Microelectronics and Systems Architecture provides the low-level foundation needed to eventually bridge the gap between complex hardware and high-level software.
+- 💻 Technology
+- 🧠 Human Minds
+- 🌙 Feminine Universe
+- 🌌 Astrophysics
+- 🐉 RPG & Storytelling
 
-🤖 **Workflow:** Championing **AI-driven development** by integrating tools into my daily cycle to optimize code quality and architectural integrity.
+My goal is to understand how systems work,
+whether they are made of code, people, ideas or stars.
+
+### 🌱 Currently Exploring
+
+- Software Architecture
+- React, Next.js, TypeScript & AI Assisted Development
+- Neurodivergent Thinking
+- Astrophysics
+- Female Health & Cyclicity
 
 <br clear="right">
 
-<div align="left">
+<div align="right">
   
 ### 💫 Follow Me On:
   
@@ -39,15 +52,14 @@
 ## 🛠️ Tech Stack
   
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodes.js&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   
 </div>
 
@@ -66,8 +78,8 @@
 
 ## 💻 Languages and Tools
   
-  [![My Skills](https://skillicons.dev/icons?i=angular,ts,js,nodejs,sass,c,py,next,react)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=mysql,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,sass,next,py,angular)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,postman,c)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=git,github,docker,figma,vscode)](https://skillicons.dev)
 
 </div>
