@@ -12,11 +12,20 @@
 
 <img align="right" width="350" src="https://i.imgur.com/9V56Oru.jpeg" alt="Tech Illustration" />
 
+**Fullstack Developer focused on React, Next.js, TypeScript and Node.js.**
+
+### 🌱 Currently Exploring
+
+- Web Development & Software Architecture
+- React, Next.js, TypeScript & AI Assisted Development
+- Neurodivergent Thinking
+- Astrophysics
+- Female Health & Cyclicity
+
 ### 🧠 Turning Complexity into Systems
 
-**Developer, worldbuilder and lifelong student of complex systems.**
 
-I explore the intersection between:
+Also a worldbuilder and lifelong student of complex systems. I explore the intersection between:
 
 - 💻 Technology
 - 🧠 Human Minds
@@ -24,16 +33,9 @@ I explore the intersection between:
 - 🌌 Astrophysics
 - 🐉 RPG & Storytelling
 
-My goal is to understand how systems work,
-whether they are made of code, people, ideas or stars.
+My goal is to understand how systems work, whether they are made of code, people, ideas or stars.
 
-### 🌱 Currently Exploring
 
-- Software Architecture
-- React, Next.js, TypeScript & AI Assisted Development
-- Neurodivergent Thinking
-- Astrophysics
-- Female Health & Cyclicity
 
 <br clear="right">
 
