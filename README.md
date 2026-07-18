@@ -12,30 +12,24 @@
 
 <img align="right" width="350" src="https://i.imgur.com/9V56Oru.jpeg" alt="Tech Illustration" />
 
-**Fullstack Developer focused on React, Next.js, TypeScript and Node.js.**
+**Fullstack Developer focused on Python, Next.js, TypeScript, Node.js and AI**
 
 ### 🌱 Currently Exploring
 
-- Web Development & Software Architecture
-- React, Next.js, TypeScript & AI Assisted Development
-- Neurodivergent Thinking
-- Astrophysics
-- Female Health & Cyclicity
+- Software Architecture and Scientific Computing
+- Radiation and Space Technology
+- Health, Genetics and Bioinformatics
+- Neuroscience and Neurodivergent Thinking
+
+### 🐉 Curiosities
+
+- I am multipotentialite, I have a genuine curiosity for diverse and complex areas
+- I fell in love with technology when I was 7 years old, when I got my first computer
+- I like to challenge myself
 
 ### 🧠 Turning Complexity into Systems
 
-
-Also a worldbuilder and lifelong student of complex systems. I explore the intersection between:
-
-- 💻 Technology
-- 🧠 Human Minds
-- 🌙 Feminine Universe
-- 🌌 Astrophysics
-- 🐉 RPG & Storytelling
-
-My goal is to understand how systems work, whether they are made of code, people, ideas or stars.
-
-
+My goal is to understand how systems work, whether they are made of code, people, ideas or particles.
 
 <br clear="right">
 
@@ -45,6 +39,7 @@ My goal is to understand how systems work, whether they are made of code, people
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-gomes-ar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriella.alves.gr@gmail.com) 
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/gabidiamine)
 
 </div>
 
@@ -53,36 +48,10 @@ My goal is to understand how systems work, whether they are made of code, people
 
 ## 🛠️ Tech Stack
   
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodes.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  
-</div>
-
-
-
-<div align="center">
-
-## 📊 Github Stats
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabi-gms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-gms&layout=compact&theme=tokyonight&hide=html,css"/>
-  
-</div>
-
-<div align="center">
-
-## 💻 Languages and Tools
-  
-  [![My Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,sass,next,py,angular)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=mysql,postman,c)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=git,github,docker,figma,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,ts,js,nodejs,sass,next,react,angular,c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,docker,git,nestjs,npm,tailwind)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=notion,obsidian,github,vscode,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,ai,ps)](https://skillicons.dev)
 
 </div>
 
