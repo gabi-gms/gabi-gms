@@ -48,7 +48,7 @@ My goal is to understand how systems work, whether they are made of code, people
 
 ## 🛠️ Tech Stack
   
-  [![My Skills](https://skillicons.dev/icons?i=py,ts,js,nodejs,sass,next,react,angular,c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=angular,spring,java,py,ts,js,nodejs,sass,next,react,c)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,docker,git,nestjs,npm,tailwind)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=notion,obsidian,github,vscode,linux)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=html,ai,ps)](https://skillicons.dev)
