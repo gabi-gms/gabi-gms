@@ -12,24 +12,24 @@
 
 <img align="right" width="350" src="https://i.imgur.com/9V56Oru.jpeg" alt="Tech Illustration" />
 
-**Fullstack Developer focused on Python, Next.js, TypeScript, Node.js and AI**
+**Fullstack Developer focused on Java, Spring Boot, Angular, Python and AI**
+
+- Professional experience with Angular, React and Node.js
+- Bachelor's degree in information Systems
+- Interest in critical and complex systems
+- Always striving for improvement
 
 ### 🌱 Currently Exploring
 
 - Software Architecture and Scientific Computing
-- Radiation and Space Technology
+- Agentic AI
+- Scalable and Sustainable Code
 - Health, Genetics and Bioinformatics
 - Neuroscience and Neurodivergent Thinking
 
-### 🐉 Curiosities
-
-- I am multipotentialite, I have a genuine curiosity for diverse and complex areas
-- I fell in love with technology when I was 7 years old, when I got my first computer
-- I like to challenge myself
-
 ### 🧠 Turning Complexity into Systems
 
-My goal is to understand how systems work, whether they are made of code, people, ideas or particles.
+My goal is to understand how systems work, whether they are made of code, people, ideas or particles. Always challenging myself.
 
 <br clear="right">
 
