@@ -12,7 +12,7 @@
 
 <img align="right" width="350" src="https://i.imgur.com/9V56Oru.jpeg" alt="Tech Illustration" />
 
-**Fullstack Developer focused on Java, Spring Boot, Angular, Python and AI**
+**Fullstack Developer focused on Java, Spring Boot, Angular and AI**
 
 - Professional experience with Angular, React and Node.js
 - Bachelor's degree in information Systems
@@ -21,11 +21,11 @@
 
 ### 🌱 Currently Exploring
 
+- Secure End-to-end Software
 - Software Architecture and Scientific Computing
 - Agentic AI
 - Scalable and Sustainable Code
 - Health, Genetics and Bioinformatics
-- Neuroscience and Neurodivergent Thinking
 
 ### 🧠 Turning Complexity into Systems
 
